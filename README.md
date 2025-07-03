@@ -56,7 +56,7 @@ Here's a short code breakdown  of the key parts in  JavaScript  :
    - `voiceSelector.addEventListener('change', ...)` listens for voice selection changes and updates the voice accordingly.
 
 # DEMO
-<img width="926" alt="image" src="https://github.com/user-attachments/assets/ee73fbe8-be23-4ee8-8fd7-1c42fd5db020">
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/9aef9281-5504-4b40-9c95-0e5a1d346f4d">
 
 
 
